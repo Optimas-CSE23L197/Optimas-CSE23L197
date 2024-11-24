@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Animesh Karan
 - 👀 I’m interested in Gaming,Coding,Story
-- 🌱 I’m currently learning MERN,DSA<JAVA
+- 🌱 I’m currently learning MERN,DSA,JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karananimesh144@gmail.com
 - 😄 Pronouns: Ani
